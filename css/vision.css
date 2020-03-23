@@ -1,0 +1,51 @@
+body
+{
+	background-image: linear-gradient(to right, #3498DB, #76D7C4);
+	font-family:calibri;
+}
+#location_div
+{
+	width:80%;
+	left:10%;
+	margin-left:10%;
+}
+#label_div1
+{
+	margin-top:20px;
+	width:100%;
+	border-bottom:5px solid white;
+}
+label
+{
+	font-size:30px;
+	color:white;
+	font-weight:bold;
+}
+#vision
+{
+	margin-left:3%;
+	width:94%;
+	font-size:22px;
+	text-align:justify;
+	color:#ECF0F1;
+}
+#label_div2
+{
+	margin-top:20px;
+	width:100%;
+	border-bottom:5px solid white;
+}
+#text
+{
+	margin-left:3%;
+	width:94%;
+	font-size:22px;
+	text-align:justify;
+	color:#ECF0F1;
+}
+#label_div3
+{
+	margin-top:20px;
+	width:100%;
+	border-bottom:5px solid white;
+}

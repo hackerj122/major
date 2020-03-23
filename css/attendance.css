@@ -1,0 +1,86 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+body
+{
+	font-family: calibri;
+	background-color: #0d47a1;
+}
+#attendance_sheet
+{
+	margin-left: 5%;
+	margin-top: 90px;
+}
+#branch
+{
+	font-weight: bold;
+	border-radius: 3px;
+	border:none;
+	height:40px;
+	width:16%;
+}
+#sem
+{
+	font-weight: bold;
+	border-radius: 3px;
+	border:none;
+	margin-left: 3.5%;
+	height:40px;
+	width:16%;
+}
+#lecture
+{
+	font-weight: bold;
+	border-radius: 3px;
+	border:none;
+	margin-left: 3.5%;
+	height:40px;
+	width:16%;
+}
+#search
+{
+	height:45px;
+	width:7%;
+	background-color:#f1c40f;
+	color:#17202a;
+	margin-left: 34%;
+	font-weight:bold;
+	border:none;
+	border-radius:4px;
+}
+th
+{
+	font-size: 17px;
+	background-color: #311b92;
+	color:white;
+}
+table, th, tr, td
+{
+	border:3px solid black;
+	margin-top:40px;
+	margin-left:5%;
+	height:40px;
+	width:52.7%;
+	border-collapse: collapse;
+	text-align: center;
+}
+table, tr, td
+{
+	font-size: 15px;
+	font-weight: bold;
+	background-color: #ec407a;
+}
+#sub
+{
+	height:45px;
+	width:7%;
+	background-color:#00bcd4;
+	color:white;
+	font-weight:bold;
+	border:none;
+	border-radius:4px;
+	margin-top:20px;
+	margin-left: 50.6%;
+}

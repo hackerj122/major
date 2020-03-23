@@ -1,0 +1,34 @@
+#main_div
+{
+	height:550px;
+	width:24%;
+	background-color:grey;
+	position:absolute;
+}
+#student_div
+{
+	height:50px;
+	width:50%;
+	position:absolute;
+	background-color:blue;
+}
+#faculty_div
+{
+	margin-left:50%;
+	height:50px;
+	width:50%;
+	position:absolute;
+	background-color:blue;
+}
+#show_here
+{
+	margin-top:50px;
+	height:100%;
+	width:100%;
+	position:absolute;
+	background-color:green;
+}
+#student_page
+{
+	margin-top:60px;
+}

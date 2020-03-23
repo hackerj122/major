@@ -1,0 +1,171 @@
+body
+{
+	font-family:calibri;
+	background-image: linear-gradient(to right, #512e5f , #e74c3c);
+}
+#main_form_div
+{
+	height:430px;
+	width:36%;
+	margin-left:30%;
+	margin-top:130px;
+	background-color:white;
+	border-radius:6px;
+	position:absolute;
+}
+#head_div
+{
+	height:35px;
+	width:100%;
+	color:white;		
+	border-top-left-radius:6px;
+	border-top-right-radius:6px;
+	background-color:#17202a;
+	position:absolute;
+}
+#label
+{
+	margin-top:8px;
+	font-size:15px;
+	font-weight:bold;
+	margin-left:33%;
+	position:absolute;
+}
+#form_div
+{
+	margin-top:60px;
+	margin-left:5%;
+}
+#fname
+{
+	height:35px;
+	width:42%;
+	border-radius:3px;
+	padding: 10px;
+	background-color:#e5e7e9;
+	border:none;
+	position:absolute;
+}
+#mname
+{
+	height:35px;
+	width:42%;
+	margin-left:48%;
+	border-radius:3px;
+	padding: 10px;
+	background-color:#e5e7e9;
+	border:none;
+	position:absolute;
+}
+#gender
+{
+	height:35px;
+	width:32%;
+	border:none;
+	border-radius:3px;
+	margin-top:40px;
+	padding: 10px;
+	color:#717d7e;
+	border:none;
+	background-color:#e5e7e9;
+	position:absolute;
+}
+#branch
+{
+	height:35px;
+	width:52%;
+	margin-left:38%;
+	border-radius:3px;
+	margin-top:40px;
+	padding: 10px;
+	color:#717d7e;
+	background-color:#e5e7e9;
+	border:none;
+	position:absolute;	
+}
+#year
+{
+	height:35px;
+	width:42%;
+	border:none;
+	border-radius:3px;
+	margin-top:100px;
+	padding: 10px;
+	color:#717d7e;
+	border:none;
+	background-color:#e5e7e9;
+	position:absolute;
+}
+#sem
+{
+	height:35px;
+	width:42%;
+	margin-left:48%;
+	border-radius:3px;
+	margin-top:100px;
+	padding: 10px;
+	color:#717d7e;
+	background-color:#e5e7e9;
+	border:none;
+	position:absolute;	
+}
+#tel
+{
+	height:35px;
+	width:42%;
+	border-radius:3px;
+	padding: 10px;
+	margin-top:140px;
+	background-color:#e5e7e9;
+	border:none;
+	position:absolute;
+}
+#date
+{
+	height:35px;
+	width:42%;
+	margin-left:48%;
+	border-radius:3px;
+	color:#717d7e;
+	padding: 10px;
+	margin-top:140px;
+	background-color:#e5e7e9;
+	border:none;
+	position:absolute;
+}
+#aadhar
+{
+	height:35px;
+	width:30%;
+	border-radius:3px;
+	margin-top:180px;
+	padding: 10px;
+	background-color:#e5e7e9;
+	border:none;
+	position:absolute;
+}
+#address
+{
+	height:35px;
+	width:53%;
+	margin-left:37%;
+	border-radius:3px;
+	color:#717d7e;
+	padding: 10px;
+	margin-top:180px;
+	background-color:#e5e7e9;
+	border:none;
+	position:absolute;
+}
+#submit_stdinfo
+{
+	height:40px;
+	width:24%;
+	border-radius:3px;
+	border:none;
+	font-weight:bold;
+	color:white;
+	background-color:#e74c3c;
+	margin-top:220px;
+	position:absolute;
+}

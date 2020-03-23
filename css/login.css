@@ -1,0 +1,71 @@
+body
+{
+	font-family:calibri;
+	background-image: linear-gradient(to right, #512e5f , #e74c3c);
+}
+#main_form_div
+{
+	height:240px;
+	width:23%;
+	margin-left:38%;
+	margin-top:220px;
+	background-color:white;
+	border-radius:6px;
+	position:absolute;
+}
+#head_div
+{
+	height:35px;
+	width:100%;
+	color:white;		
+	border-top-left-radius:6px;
+	border-top-right-radius:6px;
+	background-color:#17202a;
+	position:absolute;
+}
+#label
+{
+	margin-top:8px;
+	font-size:15px;
+	font-weight:bold;
+	margin-left:43%;
+	position:absolute;
+}
+#form_div
+{
+	margin-top:60px;
+	margin-left:8%;
+}
+#roll
+{
+	height:35px;
+	width:82%;
+	border-radius:3px;
+	padding: 10px;
+	background-color:#e5e7e9;
+	border:none;
+	position:absolute;
+}
+#pass
+{
+	height:35px;
+	width:82%;
+	margin-top:40px;
+	border-radius:3px;
+	padding: 10px;
+	background-color:#e5e7e9;
+	border:none;
+	position:absolute;
+}
+#submit_but
+{
+	height:40px;
+	width:24%;
+	border-radius:3px;
+	border:none;
+	font-weight:bold;
+	color:white;
+	background-color:#e74c3c;
+	margin-top:100px;
+	position:absolute;
+}
